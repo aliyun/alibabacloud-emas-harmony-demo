@@ -1,0 +1,14 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "httpdns Demo"
+    }
+  ,{
+      "name": "EntryAbility_desc",
+      "value": "httpdns entry ability"
+    },{
+      "name": "EntryAbility_label",
+      "value": "httpdnsDemo"
+    }]
+}

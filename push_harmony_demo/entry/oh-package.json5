@@ -1,0 +1,12 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@aliyun/push": "1.1.0", //Demo以1.1.0版本示例，请在阿里云官方文档查看使用最新版本
+  }
+}
+

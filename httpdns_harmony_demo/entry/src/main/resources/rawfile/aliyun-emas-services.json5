@@ -1,0 +1,6 @@
+{
+  "config": {
+    "httpdns.accountId":"请填入阿里云HTTPDNS控制台的Account ID",
+    "httpdns.secretKey":"请填入阿里云HTTPDNS控制台的secretKey"
+  }
+}
